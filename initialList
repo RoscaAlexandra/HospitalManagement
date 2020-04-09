@@ -1,0 +1,32 @@
+//CABINET MEDICAL (pacienti, medici, retete)
+
+
+//lista obiecte -- 8
+
+//angajati - cadre medicale - medici
+//                          - asitenti
+//          - altii
+
+//pacienti - urgente (one time)
+//         - cronici
+
+//retete - gratuite
+//       - Compensate
+//       - normale
+
+//programari consult - pacient nou
+//                   - rutina
+
+
+//lista actiuni/interogari -- 10
+
+//1.Profit lunar cabinet?
+//2.Cheltuieli salariale?
+//3.Evidenta pacienti cu boli cronice
+//4.Evidenta programari pentru fiecare doctor.
+//5.Evidenta retete (for further introduce them into DSP system)
+//6.Evidenta retete gratuite (one/per pacient in fiecare luna maxim)
+//7.Reprogramare pacienti cu boli cronice
+//8.Rating medici in functie de numarul de pacienti
+//9.Cresteri salariale la fiecare 6 luni pentru medicii cu mai multi pacienti.
+//10.Interogare urmatoarea programare (accesibila medicilor)
