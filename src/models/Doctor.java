@@ -7,8 +7,8 @@ import static java.util.stream.IntStream.*;
 public class Doctor extends Employees {
     private Pacient[] aPacient;
 
-    public Doctor(String name, Integer salary, String username, String password) {
-        super(name, salary, username, password);
+    public Doctor(Integer id, String name, Integer salary, String username, String password) {
+        super(id, name, salary, username, password, "Doctor");
       //  this.aPacient = aPacient;
     }
     public void addPacient(Pacient pacient) {

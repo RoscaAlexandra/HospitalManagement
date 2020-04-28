@@ -4,7 +4,7 @@ package models;
 public  class  Manager extends Employees{
 
     private Manager() {
-        super();
+        super("Manager");
         // super(name, salary);
     }
 
